@@ -140,6 +140,7 @@ footer .container{
     text-align: center;
     padding: 40px 0;
     font-size:15px;
+    max-width: none;
   
 }
 
@@ -214,7 +215,6 @@ footer .container{
     position:relative;
 }
 
-  
 
 
 
